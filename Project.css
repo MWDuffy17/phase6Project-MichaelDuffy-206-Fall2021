@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html  lang="en"> <title> Title </title>{
+    
+}
+
+header { 
+    padding-top: 100px ;
+    padding-bottom: 150px ;
+    color:#babab5;
+    background-color: #1c1c1b;
+    background-image: url(PathologicLogo.png);
+    background-size: contain;
+    background-repeat: no-repeat ;
+    background-position: center;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #1c1c1b;
+    color:#babab5;
+    font-family: 'Garamond ';
+    text-align: center;
+}
+
+body {
+    background-color: #1c1c1b;
+    color:#babab5;
+    font-family:  'Garamond ';
+    text-align: center;
+}
+
+
+main {
+    text-align: center;
+    padding-left: 1em ;
+    padding-right: 0 ;
+    padding-bottom: 1em ;
+    padding-top: 1em ;
+    
+    
+    overflow: auto ;
+    
+}
+
+table{
+    margin: auto ;
+    align-content: center;
+    border: 3px solid #24070c;
+    text-align: center;
+}
+
+td, th {
+    padding: 0.5em;
+    
+}
+
+.altrow { background-color: #2b2b29;}
+
+.altrow2 { background-color: #262625;}
+
+#shadow{
+    text-shadow: 1px 1px #808080;;
+}
+
+.onetenth{
+    float: left;
+    width: 10% ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.fourfifths{
+    float: left;
+    width: 30% ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+li{
+    list-style-type: none;
+    padding-bottom: 5em;
+}
+
+
+footer {
+    border-top: 2px solid ;
+    border-bottom: 2px solid ;
+    
+    border-top-color: #babab5 ;
+    border-bottom-color: #babab5 ;
+    padding: 0.5em ;
+    text-align: center;
+    font-size: 0.75em;
+}
+
+form {
+    padding: 2em;
+}
+label { 
+    float: left;
+    display: block;
+    text-align: right;
+    width: 8em;
+    padding-right: 1em;
+}
+
+
+input, textarea {
+    display: block;
+    margin-bottom: 1em;
+}
+
+#mySubmit { 
+    margin-left: 9.5em; 
+}
+
+
+@media only screen and (min-width: 600px){
+    header { 
+    padding-top: 100px ;
+    padding-bottom: 150px ;
+    color:#babab5;
+    background-color: #1c1c1b;
+    background-image: url(PathologicLogo.png);
+    background-size: contain;
+    background-repeat: no-repeat ;
+    background-position: center;
+    }
+
+    nav {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: #1c1c1b;
+        color:#babab5;
+        font-family: 'Garamond ';
+        text-align: center;
+    }
+
+    body {
+        background-color: #1c1c1b;
+        color:#babab5;
+        font-family:  'Garamond ';
+        text-align: center;
+    }
+
+
+
+    main {
+        text-align: center;
+        padding-left: 1em ;
+        padding-right: 0 ;
+        padding-bottom: 1em ;
+        padding-top: 1em ;
+
+
+        overflow: auto ;
+
+    }
+
+    #shadow{
+        text-shadow: 1px 1px #808080;;
+    }
+
+    .onetenth{
+        float: left;
+        width: 10% ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .fourfifths{
+        float: left;
+        width: 30% ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    li{
+        list-style-type: none;
+        padding-bottom: 5em;
+    }
+
+
+    footer {
+        border-top: 2px solid ;
+        border-bottom: 2px solid ;
+
+        border-top-color: #babab5 ;
+        border-bottom-color: #babab5 ;
+        padding: 0.5em ;
+        text-align: center;
+        font-size: 0.75em;
+    }
+
+}
+
+@media only screen and (min-width: 1024px){
+    header { 
+    padding-top: 100px ;
+    padding-bottom: 150px ;
+    color:#babab5;
+    background-color: #1c1c1b;
+    background-image: url(PathologicLogo.png);
+    background-size: contain;
+    background-repeat: no-repeat ;
+    background-position: center;
+    }
+
+    nav {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: #1c1c1b;
+        color:#babab5;
+        font-family: 'Garamond ';
+        text-align: center;
+    }
+
+    body {
+        background-color: #1c1c1b;
+        color:#babab5;
+        font-family:  'Garamond ';
+        text-align: center;
+    }
+
+
+
+    main {
+        text-align: center;
+        padding-left: 1em ;
+        padding-right: 0 ;
+        padding-bottom: 1em ;
+        padding-top: 1em ;
+
+
+        overflow: auto ;
+
+    }
+
+    #shadow{
+        text-shadow: 1px 1px #808080;;
+    }
+
+    .onetenth{
+        float: left;
+        width: 10% ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .fourfifths{
+        float: left;
+        width: 30% ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    li{
+        list-style-type: none;
+        padding-bottom: 5em;
+    }
+
+
+    footer {
+        border-top: 2px solid ;
+        border-bottom: 2px solid ;
+
+        border-top-color: #babab5 ;
+        border-bottom-color: #babab5 ;
+        padding: 0.5em ;
+        text-align: center;
+        font-size: 0.75em;
+    }
+
+}
